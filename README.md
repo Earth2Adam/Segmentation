@@ -25,3 +25,5 @@ More information about EfficientViT can be found here: [**FULL EfficientViT RESE
 Information and Codes related to EfficientViT can be found on their GitHub: [**EfficientViT's Github**](https://github.com/mit-han-lab/efficientvit)
 
 ### If you're interested in the project's progress, consider starring the repository. Thanks!
+
+<!-- YOLO -->
