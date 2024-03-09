@@ -23,3 +23,5 @@ This model differs from previous implementations due to its utilization of multi
 More information about EfficientViT can be found here: [**FULL EfficientViT RESEARCH PAPER**](https://arxiv.org/abs/2205.14756)
 
 Information and Codes related to EfficientViT can be found on their GitHub: [**EfficientViT's Github**](https://github.com/mit-han-lab/efficientvit)
+
+### If you're interested in the project's progress, consider starring the repository. Thanks!
