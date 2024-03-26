@@ -1,18 +1,10 @@
-# Semantic Segmentation Research for VIPR Project
+# Semantic Segmentation Research
 
 ### WHAT IS SEMANTIC SEGMENTATION? 
 
 “Semantic segmentation is a computer vision task that assigns a class label to pixels using a deep learning (DL) algorithm. It is one of three sub-categories in the overall process of image segmentation that helps computers understand visual information.” –IBM 
 
 More information on semantic segmentation can be found here: [Semantic Segmentation According to IBM](https://www.ibm.com/topics/semantic-segmentation) 
-
-### WHAT IS THE VIPR PROJECT? 
-
-“VIPR-GS is a research partnership between Ground Vehicle Systems Center and Clemson University aimed at the forefront of transformational mobility... VIPR-GS is well-positioned for breakthroughs in the worlds of military and commercial transportation.” –Clemson University 
-
-Led by Dr. Zoran Filipi, Director of VIPR-GS Center, VIPR-GS – Virtual Prototyping of Autonomy-Enabled Ground Systems – is an initiative focused on improving the performance of autonomous vehicles in commercial and military environments. 
-
-More information about VIPR can be found here: [**The VIPR Project**](https://www.clemson.edu/cecas/vipr-gs/index.html)
 
 ### WHAT IS EFFICIENTVIT? 
 
